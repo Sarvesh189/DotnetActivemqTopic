@@ -1,0 +1,15 @@
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\MsgSubscriber.exe
+C:\projects\ActiveMQ\MsgSubscriber\obj\Debug\netcoreapp3.1\MsgSubscriber.csprojAssemblyReference.cache
+C:\projects\ActiveMQ\MsgSubscriber\obj\Debug\netcoreapp3.1\MsgSubscriber.AssemblyInfoInputs.cache
+C:\projects\ActiveMQ\MsgSubscriber\obj\Debug\netcoreapp3.1\MsgSubscriber.AssemblyInfo.cs
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\MsgSubscriber.deps.json
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\MsgSubscriber.runtimeconfig.json
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\MsgSubscriber.runtimeconfig.dev.json
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\MsgSubscriber.dll
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\MsgSubscriber.pdb
+C:\projects\ActiveMQ\MsgSubscriber\obj\Debug\netcoreapp3.1\MsgSubscriber.dll
+C:\projects\ActiveMQ\MsgSubscriber\obj\Debug\netcoreapp3.1\MsgSubscriber.pdb
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\Apache.NMS.ActiveMQ.dll
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\Apache.NMS.dll
+C:\projects\ActiveMQ\MsgSubscriber\bin\Debug\netcoreapp3.1\Ionic.Zlib.Core.dll
+C:\projects\ActiveMQ\MsgSubscriber\obj\Debug\netcoreapp3.1\MsgSubscriber.csproj.CopyComplete

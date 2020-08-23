@@ -1,0 +1,15 @@
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\MsgApp.exe
+C:\projects\ActiveMQ\MsgApp\obj\Debug\netcoreapp3.1\MsgApp.csprojAssemblyReference.cache
+C:\projects\ActiveMQ\MsgApp\obj\Debug\netcoreapp3.1\MsgApp.AssemblyInfoInputs.cache
+C:\projects\ActiveMQ\MsgApp\obj\Debug\netcoreapp3.1\MsgApp.AssemblyInfo.cs
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\MsgApp.deps.json
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\MsgApp.runtimeconfig.json
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\MsgApp.runtimeconfig.dev.json
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\MsgApp.dll
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\MsgApp.pdb
+C:\projects\ActiveMQ\MsgApp\obj\Debug\netcoreapp3.1\MsgApp.dll
+C:\projects\ActiveMQ\MsgApp\obj\Debug\netcoreapp3.1\MsgApp.pdb
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\Apache.NMS.dll
+C:\projects\ActiveMQ\MsgApp\obj\Debug\netcoreapp3.1\MsgApp.csproj.CopyComplete
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\Apache.NMS.ActiveMQ.dll
+C:\projects\ActiveMQ\MsgApp\bin\Debug\netcoreapp3.1\Ionic.Zlib.Core.dll

@@ -1,0 +1,149 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Apache.NMS.ActiveMQ.NetStd/1.7.3": {
+        "type": "package",
+        "dependencies": {
+          "Apache.NMS.NetStd": "1.7.1.3899",
+          "Ionic.Zlib.Core": "1.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Apache.NMS.ActiveMQ.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Apache.NMS.ActiveMQ.dll": {}
+        }
+      },
+      "Apache.NMS.NetStd/1.7.1.3899": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Apache.NMS.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Apache.NMS.dll": {}
+        }
+      },
+      "Ionic.Zlib.Core/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Ionic.Zlib.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ionic.Zlib.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Apache.NMS.ActiveMQ.NetStd/1.7.3": {
+      "sha512": "lKCKTyv+VTzJKd/xCX1K+x+MlnEmVkoxeH6ioW5/h0sqn4YEgQZsWpsKTuY/Y0gfQM+eNAFT3d373xvyPfEjTw==",
+      "type": "package",
+      "path": "apache.nms.activemq.netstd/1.7.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "activemq-icon.png",
+        "apache.nms.activemq.netstd.1.7.3.nupkg.sha512",
+        "apache.nms.activemq.netstd.nuspec",
+        "lib/netstandard2.0/Apache.NMS.ActiveMQ.dll"
+      ]
+    },
+    "Apache.NMS.NetStd/1.7.1.3899": {
+      "sha512": "yrB3FTZirlVj1Ty/p5KVCK48UAgjPaoZyuGrqMKPWQLMHtttuWplFs9DubiJ90GH4JDhVY2D/2AqVlyNBziyIg==",
+      "type": "package",
+      "path": "apache.nms.netstd/1.7.1.3899",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "apache.nms.netstd.1.7.1.3899.nupkg.sha512",
+        "apache.nms.netstd.nuspec",
+        "lib/netstandard2.0/Apache.NMS.dll"
+      ]
+    },
+    "Ionic.Zlib.Core/1.0.0": {
+      "sha512": "3GBgjMQA/uPTiqv+wMCpLsyK5dcHCF6EV8+pg4IMKLbgbMGEtIkvErEO4ql5Cv18n94Smf3NAhY/sCed2Tb+Tw==",
+      "type": "package",
+      "path": "ionic.zlib.core/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ionic.zlib.core.1.0.0.nupkg.sha512",
+        "ionic.zlib.core.nuspec",
+        "lib/netstandard2.0/Ionic.Zlib.Core.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Apache.NMS.ActiveMQ.NetStd >= 1.7.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\h4wc\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\projects\\ActiveMQ\\MsgSubscriber\\MsgSubscriber.csproj",
+      "projectName": "MsgSubscriber",
+      "projectPath": "C:\\projects\\ActiveMQ\\MsgSubscriber\\MsgSubscriber.csproj",
+      "packagesPath": "C:\\Users\\h4wc\\.nuget\\packages\\",
+      "outputPath": "C:\\projects\\ActiveMQ\\MsgSubscriber\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\h4wc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Apache.NMS.ActiveMQ.NetStd": {
+            "target": "Package",
+            "version": "[1.7.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

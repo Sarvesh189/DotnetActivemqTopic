@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MsgSubscriber/1.0.0": {
+        "dependencies": {
+          "Apache.NMS.ActiveMQ.NetStd": "1.7.3"
+        },
+        "runtime": {
+          "MsgSubscriber.dll": {}
+        }
+      },
+      "Apache.NMS.ActiveMQ.NetStd/1.7.3": {
+        "dependencies": {
+          "Apache.NMS.NetStd": "1.7.1.3899",
+          "Ionic.Zlib.Core": "1.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Apache.NMS.ActiveMQ.dll": {
+            "assemblyVersion": "1.7.3.0",
+            "fileVersion": "1.7.3.0"
+          }
+        }
+      },
+      "Apache.NMS.NetStd/1.7.1.3899": {
+        "runtime": {
+          "lib/netstandard2.0/Apache.NMS.dll": {
+            "assemblyVersion": "1.7.1.3899",
+            "fileVersion": "1.7.1.3899"
+          }
+        }
+      },
+      "Ionic.Zlib.Core/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Ionic.Zlib.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MsgSubscriber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.NMS.ActiveMQ.NetStd/1.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lKCKTyv+VTzJKd/xCX1K+x+MlnEmVkoxeH6ioW5/h0sqn4YEgQZsWpsKTuY/Y0gfQM+eNAFT3d373xvyPfEjTw==",
+      "path": "apache.nms.activemq.netstd/1.7.3",
+      "hashPath": "apache.nms.activemq.netstd.1.7.3.nupkg.sha512"
+    },
+    "Apache.NMS.NetStd/1.7.1.3899": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yrB3FTZirlVj1Ty/p5KVCK48UAgjPaoZyuGrqMKPWQLMHtttuWplFs9DubiJ90GH4JDhVY2D/2AqVlyNBziyIg==",
+      "path": "apache.nms.netstd/1.7.1.3899",
+      "hashPath": "apache.nms.netstd.1.7.1.3899.nupkg.sha512"
+    },
+    "Ionic.Zlib.Core/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3GBgjMQA/uPTiqv+wMCpLsyK5dcHCF6EV8+pg4IMKLbgbMGEtIkvErEO4ql5Cv18n94Smf3NAhY/sCed2Tb+Tw==",
+      "path": "ionic.zlib.core/1.0.0",
+      "hashPath": "ionic.zlib.core.1.0.0.nupkg.sha512"
+    }
+  }
+}
