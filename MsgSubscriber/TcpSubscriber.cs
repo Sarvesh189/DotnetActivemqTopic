@@ -24,7 +24,7 @@ namespace MsgSubscriber
                 factory.PrefetchPolicy = new PrefetchPolicy() { DurableTopicPrefetch = 1, TopicPrefetch = 1 };
 
                 var rpolicy = new RedeliveryPolicy();
-                rpolicy.InitialRedeliveryDelay = 5000;
+                rpolicy.InitialRedeliveryDelay = 15000;
                 rpolicy.MaximumRedeliveries = 5;
                 rpolicy.UseExponentialBackOff = false;
 
